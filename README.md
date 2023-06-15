@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <a href="[https://www.tutorialsandyou.com/markdown/](https://zhong-yang.ren)" title="Learn Markdown">@ZhongyangRen</a> at NAIL@HNU
+- 👋 Hi, I’m <a href="https://zhong-yang.ren">@ZhongyangRen</a> at NAIL@HNU
 - 👀 I’m interested in geometric model fitting on event data
 - 🌱 I’m currently learning event-based vision and SLAM
 - 💞️ I’m looking to collaborate on event-based pattern recognition
