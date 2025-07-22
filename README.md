@@ -1,7 +1,7 @@
-- 👋 Hi, I’m <a href="https://zhong-yang.ren">@ZhongyangRen</a> at NAIL@HNU
-- 👀 I’m interested in Event Cameras, Robotics, Computer Vision
-- 🌱 I’m currently learning event-based vision.
-- 📫 I'm available at cs.zhongyang@gmail.com 
+- 👋 Hi, I’m <a href="https://zhong-yang.ren">@ZhongyangRen</a>, a Ph.D student at Computer Vision and Robotics Group, Northwestern Polytechnical University.
+- 👀 I’m interested in Event Cameras, Robotics, 3D Computer Vision
+- 🌱 I’m currently learning cutting-edge computer vision techniques.
+- 📫 I'm available at cs.zhongyang@gmail.com, zyren@mail.nwpu.edu.cn. 
 
 <!---
 ZhongyangRen/ZhongyangRen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
